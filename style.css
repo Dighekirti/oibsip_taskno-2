@@ -1,0 +1,34 @@
+*{
+    background-color: rgb(215, 226, 231);
+}
+h1{
+    text-align: center;
+    background-color: orangered;
+    font-family: 'Gill Sans', 'Gill Sans MT', Calibri, 'Trebuchet MS', sans-serif;
+    font-weight: bold;
+    font-size: 40px;
+}
+h2{
+    font-style: italic;
+}
+b{
+    color:rgb(250, 5, 5);
+    font-size: large;
+}
+#img-div{
+    text-align: center;
+    
+}
+.info,h3{
+    text-align: center;
+}
+.tribute{
+    text-align: center;
+   font-family: Georgia, 'Times New Roman', Times, serif;
+   
+}
+.life{
+    font-family: 'Franklin Gothic Medium', 'Arial Narrow', Arial, sans-serif;
+    text-align: center;
+}
+
